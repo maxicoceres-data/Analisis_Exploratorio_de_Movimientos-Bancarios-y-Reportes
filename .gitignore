@@ -1,0 +1,21 @@
+# Entornos virtuales
+entorno_analisis/
+venv/
+.env/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
