@@ -18,7 +18,7 @@
 - [ ] Investigar repunte septiembre-diciembre (¿gastos menores? ¿ingresos mayores? ¿fin de préstamo?)
 - [ ] Implementar PREDICCIÓN: Gasto/ahorro esperado próximo mes (promedio o regresión) + intervalo de confianza
 - [ ] Implementar SENSIBILIDAD: Simular escenarios (reducir alquiler -5%, alimentación -10%, etc.) + tabla de impacto en ahorro final
-
+- [ ] Implementar con el cliente SALDO MINIMO: ¿Qué saldo mínimo de seguridad implementar?
 - [ ] Ratio sostenibilidad: ¿Promedio ahorro mensual es positivo? ¿Tendencia? ¿Cumple mínimo de seguridad de saldo?
 
 ### Mejoras de Análisis Exploratorio
