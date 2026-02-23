@@ -29,3 +29,10 @@ def tipo_gasto(tipo):
         return "ingreso de dinero"
     else:
         return "sin definir"
+
+
+
+
+def calcular_porcentaje(gasto,porcentaje):
+    diferencia = gasto * porcentaje
+    return diferencia
