@@ -405,10 +405,9 @@ def generar_reporte_final(saldo_seguridad,fecha_reporte,cliente):
     output_path.write_text(html_output, encoding='utf-8')
 
     print(f"✅ Reporte generado: {output_path.absolute()}")
-    print(f"📊 Tamaño: {output_path.stat().st_size / 1024 / 1024:.2f} MB")
     
     
-    return output_path
+   
 
 if __name__ == "__main__":
     generar_reporte_final(saldo_seguridad=900, fecha_reporte=datetime.now(),cliente="Análisis")
