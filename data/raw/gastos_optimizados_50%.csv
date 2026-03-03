@@ -1,0 +1,583 @@
+fecha,tipo_movimiento,categoria,importe_eur,saldo_post_movimiento,descripcion,canal,mes,dia,alerta,tipo_movimiento_general
+2024-01-01,Ingreso,Salario,2374.51,4874.51,Nómina mensual,Transferencia,January,Monday,,ingreso de dinero
+2024-01-01,Gasto,Transporte,-31.18,4843.33,Pago con tarjeta,Tarjeta,January,Monday,,gasto recurrente
+2024-01-02,Gasto,Alimentación,-49.67,4793.66,Pago con tarjeta,Tarjeta,January,Tuesday,,gasto recurrente
+2024-01-03,Gasto,Transporte,-8.37,4785.29,Pago con tarjeta,Tarjeta,January,Wednesday,,gasto recurrente
+2024-01-03,Gasto,Alimentación,-30.0,4755.29,Pago con tarjeta,Tarjeta,January,Wednesday,,gasto recurrente
+2024-01-04,Gasto,Ropa,-18.38,4736.91,Pago con tarjeta,Tarjeta,January,Thursday,,gasto extraordinario
+2024-01-04,Gasto,Transporte,-38.81,4698.1,Pago con tarjeta,Tarjeta,January,Thursday,,gasto recurrente
+2024-01-04,Ingreso,Bizum,76.83,4774.93,Bizum recibido,Bizum,January,Thursday,,sin definir
+2024-01-05,Gasto,Alquiler,-900.0,3874.9300000000003,Cargo Alquiler,Débito,January,Friday,,fijo
+2024-01-06,Gasto,Ocio,-39.72,3835.21,Pago con tarjeta,Tarjeta,January,Saturday,,gasto extraordinario
+2024-01-07,Gasto,Préstamo personal,-220.0,3615.21,Cargo Préstamo personal,Débito,January,Sunday,,fijo
+2024-01-07,Gasto,Alimentación,-29.78,3585.4300000000003,Pago con tarjeta,Tarjeta,January,Sunday,,gasto recurrente
+2024-01-07,Gasto,Transporte,-17.61,3567.8200000000006,Pago con tarjeta,Tarjeta,January,Sunday,,gasto recurrente
+2024-01-09,Gasto,Otros,-51.92,3515.9000000000005,Pago con tarjeta,Tarjeta,January,Tuesday,,gasto extraordinario
+2024-01-11,Gasto,Otros,-48.16,3467.7400000000002,Pago con tarjeta,Tarjeta,January,Thursday,,gasto extraordinario
+2024-01-11,Gasto,Gasto extraordinario,-516.96,2950.78,Compra excepcional,Tarjeta,January,Thursday,,gasto extraordinario
+2024-01-12,Gasto,Electricidad,-70.0,2880.78,Cargo Electricidad,Débito,January,Friday,,fijo
+2024-01-12,Gasto,Gas,-45.0,2835.78,Cargo Gas,Débito,January,Friday,,fijo
+2024-01-12,Gasto,Transporte,-56.17,2779.61,Pago con tarjeta,Tarjeta,January,Friday,,gasto recurrente
+2024-01-13,Gasto,Alimentación,-20.54,2759.07,Pago con tarjeta,Tarjeta,January,Saturday,,gasto recurrente
+2024-01-15,Gasto,Internet,-55.0,2704.07,Cargo Internet,Débito,January,Monday,,fijo
+2024-01-15,Gasto,Telefonía,-35.0,2669.07,Cargo Telefonía,Débito,January,Monday,,fijo
+2024-01-16,Gasto,Alimentación,-26.22,2642.8500000000004,Pago con tarjeta,Tarjeta,January,Tuesday,,gasto recurrente
+2024-01-17,Gasto,Educación,-20.96,2621.8900000000003,Pago con tarjeta,Tarjeta,January,Wednesday,,fijo
+2024-01-17,Gasto,Restaurantes,-47.29,2574.6000000000004,Pago con tarjeta,Tarjeta,January,Wednesday,,gasto extraordinario
+2024-01-18,Gasto,Seguro,-45.0,2529.6000000000004,Cargo Seguro,Débito,January,Thursday,,fijo
+2024-01-18,Gasto,Transporte,-23.37,2506.2300000000005,Pago con tarjeta,Tarjeta,January,Thursday,,gasto recurrente
+2024-01-18,Gasto,Alimentación,-26.98,2479.2500000000005,Pago con tarjeta,Tarjeta,January,Thursday,,gasto recurrente
+2024-01-19,Gasto,Educación,-24.54,2454.7100000000005,Pago con tarjeta,Tarjeta,January,Friday,,fijo
+2024-01-20,Gasto,Streaming,-25.0,2429.7100000000005,Cargo Streaming,Débito,January,Saturday,,fijo
+2024-01-20,Gasto,Gasto extraordinario,-379.84,2049.8700000000003,Compra excepcional,Tarjeta,January,Saturday,,gasto extraordinario
+2024-01-21,Gasto,Alimentación,-17.59,2032.2800000000002,Pago con tarjeta,Tarjeta,January,Sunday,,gasto recurrente
+2024-01-22,Gasto,Otros,-58.05,1974.23,Pago con tarjeta,Tarjeta,January,Monday,,gasto extraordinario
+2024-01-22,Gasto,Alimentación,-28.78,1945.4499999999998,Pago con tarjeta,Tarjeta,January,Monday,,gasto recurrente
+2024-01-22,Ingreso,Ingreso extra,275.06,2220.5099999999998,Ingreso puntual,Transferencia,January,Monday,,ingreso de dinero
+2024-01-23,Gasto,Alimentación,-22.05,2198.4599999999996,Pago con tarjeta,Tarjeta,January,Tuesday,,gasto recurrente
+2024-01-23,Gasto,Transporte,-43.4,2155.0599999999995,Pago con tarjeta,Tarjeta,January,Tuesday,,gasto recurrente
+2024-01-24,Gasto,Ropa,-20.36,2134.6999999999994,Pago con tarjeta,Tarjeta,January,Wednesday,,gasto extraordinario
+2024-01-25,Gasto,Ropa,-49.51,2085.189999999999,Pago con tarjeta,Tarjeta,January,Thursday,,gasto extraordinario
+2024-01-28,Gasto,Otros,-15.15,2070.039999999999,Pago con tarjeta,Tarjeta,January,Sunday,,gasto extraordinario
+2024-01-30,Gasto,Alimentación,-50.84,2019.199999999999,Pago con tarjeta,Tarjeta,January,Tuesday,,gasto recurrente
+2024-01-30,Gasto,Otros,-37.03,1982.1699999999987,Pago con tarjeta,Tarjeta,January,Tuesday,,gasto extraordinario
+2024-01-31,Gasto,Educación,-54.13,1928.0399999999986,Pago con tarjeta,Tarjeta,January,Wednesday,,fijo
+2024-01-31,Gasto,Ropa,-41.39,1886.6499999999987,Pago con tarjeta,Tarjeta,January,Wednesday,,gasto extraordinario
+2024-02-01,Ingreso,Salario,2279.26,4165.909999999999,Nómina mensual,Transferencia,February,Thursday,,ingreso de dinero
+2024-02-01,Gasto,Restaurantes,-56.89,4109.019999999999,Pago con tarjeta,Tarjeta,February,Thursday,,gasto extraordinario
+2024-02-02,Gasto,Ocio,-19.66,4089.3599999999988,Pago con tarjeta,Tarjeta,February,Friday,,gasto extraordinario
+2024-02-03,Gasto,Ocio,-45.49,4043.869999999999,Pago con tarjeta,Tarjeta,February,Saturday,,gasto extraordinario
+2024-02-03,Gasto,Alimentación,-30.78,4013.0899999999992,Pago con tarjeta,Tarjeta,February,Saturday,,gasto recurrente
+2024-02-04,Gasto,Restaurantes,-54.39,3958.699999999999,Pago con tarjeta,Tarjeta,February,Sunday,,gasto extraordinario
+2024-02-04,Gasto,Transporte,-49.33,3909.369999999999,Pago con tarjeta,Tarjeta,February,Sunday,,gasto recurrente
+2024-02-05,Gasto,Alquiler,-900.0,3009.369999999999,Cargo Alquiler,Débito,February,Monday,,fijo
+2024-02-05,Gasto,Restaurantes,-37.74,2971.629999999999,Pago con tarjeta,Tarjeta,February,Monday,,gasto extraordinario
+2024-02-06,Gasto,Educación,-27.25,2944.379999999999,Pago con tarjeta,Tarjeta,February,Tuesday,,fijo
+2024-02-06,Gasto,Alimentación,-47.83,2896.5499999999993,Pago con tarjeta,Tarjeta,February,Tuesday,,gasto recurrente
+2024-02-07,Gasto,Préstamo personal,-220.0,2676.5499999999993,Cargo Préstamo personal,Débito,February,Wednesday,,fijo
+2024-02-08,Gasto,Restaurantes,-28.52,2648.0299999999993,Pago con tarjeta,Tarjeta,February,Thursday,,gasto extraordinario
+2024-02-08,Gasto,Salud,-56.36,2591.669999999999,Pago con tarjeta,Tarjeta,February,Thursday,,gasto recurrente
+2024-02-08,Gasto,Bizum,-32.98,2558.689999999999,Bizum enviado,Bizum,February,Thursday,,sin definir
+2024-02-09,Gasto,Ocio,-44.24,2514.4499999999994,Pago con tarjeta,Tarjeta,February,Friday,,gasto extraordinario
+2024-02-09,Gasto,Ocio,-26.69,2487.7599999999993,Pago con tarjeta,Tarjeta,February,Friday,,gasto extraordinario
+2024-02-12,Gasto,Electricidad,-70.0,2417.7599999999993,Cargo Electricidad,Débito,February,Monday,,fijo
+2024-02-12,Gasto,Gas,-45.0,2372.7599999999993,Cargo Gas,Débito,February,Monday,,fijo
+2024-02-13,Gasto,Alimentación,-13.65,2359.109999999999,Pago con tarjeta,Tarjeta,February,Tuesday,,gasto recurrente
+2024-02-13,Gasto,Otros,-51.62,2307.4899999999993,Pago con tarjeta,Tarjeta,February,Tuesday,,gasto extraordinario
+2024-02-13,Ingreso,Ingreso extra,177.04,2484.5299999999993,Ingreso puntual,Transferencia,February,Tuesday,,ingreso de dinero
+2024-02-14,Gasto,Transporte,-48.04,2436.4899999999993,Pago con tarjeta,Tarjeta,February,Wednesday,,gasto recurrente
+2024-02-15,Gasto,Internet,-55.0,2381.4899999999993,Cargo Internet,Débito,February,Thursday,,fijo
+2024-02-15,Gasto,Telefonía,-35.0,2346.4899999999993,Cargo Telefonía,Débito,February,Thursday,,fijo
+2024-02-15,Gasto,Restaurantes,-44.37,2302.1199999999994,Pago con tarjeta,Tarjeta,February,Thursday,,gasto extraordinario
+2024-02-15,Gasto,Alimentación,-12.66,2289.4599999999996,Pago con tarjeta,Tarjeta,February,Thursday,,gasto recurrente
+2024-02-15,Ingreso,Ingreso extra,207.62,2497.0799999999995,Ingreso puntual,Transferencia,February,Thursday,,ingreso de dinero
+2024-02-16,Gasto,Alimentación,-7.92,2489.1599999999994,Pago con tarjeta,Tarjeta,February,Friday,,gasto recurrente
+2024-02-16,Gasto,Otros,-51.47,2437.6899999999996,Pago con tarjeta,Tarjeta,February,Friday,,gasto extraordinario
+2024-02-17,Gasto,Alimentación,-10.95,2426.74,Pago con tarjeta,Tarjeta,February,Saturday,,gasto recurrente
+2024-02-17,Gasto,Alimentación,-48.11,2378.6299999999997,Pago con tarjeta,Tarjeta,February,Saturday,,gasto recurrente
+2024-02-18,Gasto,Seguro,-45.0,2333.6299999999997,Cargo Seguro,Débito,February,Sunday,,fijo
+2024-02-18,Gasto,Restaurantes,-20.88,2312.7499999999995,Pago con tarjeta,Tarjeta,February,Sunday,,gasto extraordinario
+2024-02-18,Ingreso,Ingreso extra,117.14,2429.8899999999994,Ingreso puntual,Transferencia,February,Sunday,,ingreso de dinero
+2024-02-19,Gasto,Alimentación,-50.09,2379.7999999999993,Pago con tarjeta,Tarjeta,February,Monday,,gasto recurrente
+2024-02-20,Gasto,Streaming,-25.0,2354.7999999999993,Cargo Streaming,Débito,February,Tuesday,,fijo
+2024-02-21,Gasto,Transporte,-10.36,2344.439999999999,Pago con tarjeta,Tarjeta,February,Wednesday,,gasto recurrente
+2024-02-21,Gasto,Restaurantes,-40.54,2303.899999999999,Pago con tarjeta,Tarjeta,February,Wednesday,,gasto extraordinario
+2024-02-22,Gasto,Otros,-57.1,2246.7999999999993,Pago con tarjeta,Tarjeta,February,Thursday,,gasto extraordinario
+2024-02-22,Gasto,Salud,-41.09,2205.709999999999,Pago con tarjeta,Tarjeta,February,Thursday,,gasto recurrente
+2024-02-23,Gasto,Transporte,-56.96,2148.749999999999,Pago con tarjeta,Tarjeta,February,Friday,,gasto recurrente
+2024-02-24,Gasto,Alimentación,-23.48,2125.269999999999,Pago con tarjeta,Tarjeta,February,Saturday,,gasto recurrente
+2024-02-24,Ingreso,Bizum,78.01,2203.2799999999993,Bizum recibido,Bizum,February,Saturday,,sin definir
+2024-02-25,Gasto,Ropa,-22.66,2180.6199999999994,Pago con tarjeta,Tarjeta,February,Sunday,,gasto extraordinario
+2024-02-25,Gasto,Alimentación,-37.6,2143.0199999999995,Pago con tarjeta,Tarjeta,February,Sunday,,gasto recurrente
+2024-02-29,Gasto,Ocio,-20.39,2122.6299999999997,Pago con tarjeta,Tarjeta,February,Thursday,,gasto extraordinario
+2024-03-01,Ingreso,Salario,2068.25,4190.879999999999,Nómina mensual,Transferencia,March,Friday,,ingreso de dinero
+2024-03-01,Gasto,Alimentación,-46.82,4144.0599999999995,Pago con tarjeta,Tarjeta,March,Friday,,gasto recurrente
+2024-03-01,Gasto,Alimentación,-20.91,4123.15,Pago con tarjeta,Tarjeta,March,Friday,,gasto recurrente
+2024-03-02,Gasto,Alimentación,-33.43,4089.72,Pago con tarjeta,Tarjeta,March,Saturday,,gasto recurrente
+2024-03-04,Gasto,Bizum,-91.07,3998.6499999999996,Bizum enviado,Bizum,March,Monday,,sin definir
+2024-03-05,Gasto,Alquiler,-900.0,3098.6499999999996,Cargo Alquiler,Débito,March,Tuesday,,fijo
+2024-03-05,Gasto,Transporte,-13.26,3085.3899999999994,Pago con tarjeta,Tarjeta,March,Tuesday,,gasto recurrente
+2024-03-05,Gasto,Alimentación,-37.78,3047.6099999999997,Pago con tarjeta,Tarjeta,March,Tuesday,,gasto recurrente
+2024-03-05,Gasto,Bizum,-100.4,2947.2099999999996,Bizum enviado,Bizum,March,Tuesday,,sin definir
+2024-03-07,Gasto,Préstamo personal,-220.0,2727.2099999999996,Cargo Préstamo personal,Débito,March,Thursday,,fijo
+2024-03-08,Gasto,Restaurantes,-44.66,2682.5499999999997,Pago con tarjeta,Tarjeta,March,Friday,,gasto extraordinario
+2024-03-09,Gasto,Restaurantes,-10.93,2671.62,Pago con tarjeta,Tarjeta,March,Saturday,,gasto extraordinario
+2024-03-09,Gasto,Alimentación,-11.99,2659.63,Pago con tarjeta,Tarjeta,March,Saturday,,gasto recurrente
+2024-03-11,Gasto,Ropa,-58.85,2600.78,Pago con tarjeta,Tarjeta,March,Monday,,gasto extraordinario
+2024-03-11,Gasto,Transporte,-24.78,2576.0,Pago con tarjeta,Tarjeta,March,Monday,,gasto recurrente
+2024-03-11,Gasto,Bizum,-111.71,2464.29,Bizum enviado,Bizum,March,Monday,,sin definir
+2024-03-12,Gasto,Electricidad,-70.0,2394.29,Cargo Electricidad,Débito,March,Tuesday,,fijo
+2024-03-12,Gasto,Gas,-45.0,2349.29,Cargo Gas,Débito,March,Tuesday,,fijo
+2024-03-12,Gasto,Transporte,-44.18,2305.11,Pago con tarjeta,Tarjeta,March,Tuesday,,gasto recurrente
+2024-03-13,Gasto,Bizum,-40.91,2264.2000000000003,Bizum enviado,Bizum,March,Wednesday,,sin definir
+2024-03-14,Gasto,Alimentación,-35.39,2228.8100000000004,Pago con tarjeta,Tarjeta,March,Thursday,,gasto recurrente
+2024-03-14,Gasto,Restaurantes,-19.93,2208.8800000000006,Pago con tarjeta,Tarjeta,March,Thursday,,gasto extraordinario
+2024-03-15,Gasto,Internet,-55.0,2153.8800000000006,Cargo Internet,Débito,March,Friday,,fijo
+2024-03-15,Gasto,Telefonía,-35.0,2118.8800000000006,Cargo Telefonía,Débito,March,Friday,,fijo
+2024-03-15,Gasto,Transporte,-24.1,2094.7800000000007,Pago con tarjeta,Tarjeta,March,Friday,,gasto recurrente
+2024-03-17,Gasto,Alimentación,-45.55,2049.2300000000005,Pago con tarjeta,Tarjeta,March,Sunday,,gasto recurrente
+2024-03-17,Gasto,Transporte,-16.57,2032.6600000000003,Pago con tarjeta,Tarjeta,March,Sunday,,gasto recurrente
+2024-03-18,Gasto,Seguro,-45.0,1987.6600000000003,Cargo Seguro,Débito,March,Monday,,fijo
+2024-03-19,Ingreso,Ingreso extra,122.83,2110.4900000000002,Ingreso puntual,Transferencia,March,Tuesday,,ingreso de dinero
+2024-03-20,Gasto,Streaming,-25.0,2085.4900000000002,Cargo Streaming,Débito,March,Wednesday,,fijo
+2024-03-20,Gasto,Salud,-50.27,2035.2200000000003,Pago con tarjeta,Tarjeta,March,Wednesday,,gasto recurrente
+2024-03-22,Gasto,Alimentación,-18.95,2016.2700000000004,Pago con tarjeta,Tarjeta,March,Friday,,gasto recurrente
+2024-03-22,Gasto,Alimentación,-45.62,1970.6500000000005,Pago con tarjeta,Tarjeta,March,Friday,,gasto recurrente
+2024-03-23,Gasto,Transporte,-48.16,1922.4900000000007,Pago con tarjeta,Tarjeta,March,Saturday,,gasto recurrente
+2024-03-23,Gasto,Transporte,-52.31,1870.1800000000007,Pago con tarjeta,Tarjeta,March,Saturday,,gasto recurrente
+2024-03-24,Gasto,Restaurantes,-29.87,1840.3100000000009,Pago con tarjeta,Tarjeta,March,Sunday,,gasto extraordinario
+2024-03-24,Gasto,Ropa,-41.25,1799.0600000000009,Pago con tarjeta,Tarjeta,March,Sunday,,gasto extraordinario
+2024-03-26,Gasto,Alimentación,-29.52,1769.5400000000009,Pago con tarjeta,Tarjeta,March,Tuesday,,gasto recurrente
+2024-03-26,Gasto,Ropa,-28.62,1740.920000000001,Pago con tarjeta,Tarjeta,March,Tuesday,,gasto extraordinario
+2024-03-27,Gasto,Salud,-47.98,1692.940000000001,Pago con tarjeta,Tarjeta,March,Wednesday,,gasto recurrente
+2024-03-27,Gasto,Alimentación,-8.82,1684.1200000000008,Pago con tarjeta,Tarjeta,March,Wednesday,,gasto recurrente
+2024-03-28,Gasto,Alimentación,-12.5,1671.6200000000008,Pago con tarjeta,Tarjeta,March,Thursday,,gasto recurrente
+2024-03-29,Gasto,Ocio,-29.41,1642.210000000001,Pago con tarjeta,Tarjeta,March,Friday,,gasto extraordinario
+2024-03-29,Gasto,Salud,-34.79,1607.420000000001,Pago con tarjeta,Tarjeta,March,Friday,,gasto recurrente
+2024-03-30,Ingreso,Ingreso extra,255.59,1863.0100000000011,Ingreso puntual,Transferencia,March,Saturday,,ingreso de dinero
+2024-03-31,Gasto,Alimentación,-22.9,1840.110000000001,Pago con tarjeta,Tarjeta,March,Sunday,,gasto recurrente
+2024-03-31,Gasto,Transporte,-43.9,1796.210000000001,Pago con tarjeta,Tarjeta,March,Sunday,,gasto recurrente
+2024-03-31,Gasto,Bizum,-97.94,1698.270000000001,Bizum enviado,Bizum,March,Sunday,,sin definir
+2024-04-01,Ingreso,Salario,2173.59,3871.860000000001,Nómina mensual,Transferencia,April,Monday,,ingreso de dinero
+2024-04-01,Gasto,Bizum,-40.46,3831.400000000001,Bizum enviado,Bizum,April,Monday,,sin definir
+2024-04-02,Gasto,Otros,-20.28,3811.120000000001,Pago con tarjeta,Tarjeta,April,Tuesday,,gasto extraordinario
+2024-04-03,Gasto,Alimentación,-38.33,3772.790000000001,Pago con tarjeta,Tarjeta,April,Wednesday,,gasto recurrente
+2024-04-04,Gasto,Restaurantes,-28.65,3744.1400000000012,Pago con tarjeta,Tarjeta,April,Thursday,,gasto extraordinario
+2024-04-04,Gasto,Alimentación,-39.4,3704.7400000000007,Pago con tarjeta,Tarjeta,April,Thursday,,gasto recurrente
+2024-04-05,Gasto,Alquiler,-900.0,2804.7400000000007,Cargo Alquiler,Débito,April,Friday,,fijo
+2024-04-05,Gasto,Alimentación,-46.16,2758.580000000001,Pago con tarjeta,Tarjeta,April,Friday,,gasto recurrente
+2024-04-05,Gasto,Transporte,-43.31,2715.270000000001,Pago con tarjeta,Tarjeta,April,Friday,,gasto recurrente
+2024-04-06,Gasto,Transporte,-38.5,2676.770000000001,Pago con tarjeta,Tarjeta,April,Saturday,,gasto recurrente
+2024-04-06,Gasto,Transporte,-27.7,2649.070000000001,Pago con tarjeta,Tarjeta,April,Saturday,,gasto recurrente
+2024-04-07,Gasto,Préstamo personal,-220.0,2429.070000000001,Cargo Préstamo personal,Débito,April,Sunday,,fijo
+2024-04-07,Gasto,Otros,-39.5,2389.570000000001,Pago con tarjeta,Tarjeta,April,Sunday,,gasto extraordinario
+2024-04-08,Gasto,Salud,-12.57,2377.000000000001,Pago con tarjeta,Tarjeta,April,Monday,,gasto recurrente
+2024-04-08,Gasto,Ropa,-10.89,2366.110000000001,Pago con tarjeta,Tarjeta,April,Monday,,gasto extraordinario
+2024-04-08,Ingreso,Ingreso extra,303.03,2669.1400000000012,Ingreso puntual,Transferencia,April,Monday,,ingreso de dinero
+2024-04-10,Gasto,Alimentación,-14.36,2654.780000000001,Pago con tarjeta,Tarjeta,April,Wednesday,,gasto recurrente
+2024-04-10,Gasto,Ocio,-56.33,2598.450000000001,Pago con tarjeta,Tarjeta,April,Wednesday,,gasto extraordinario
+2024-04-12,Gasto,Electricidad,-70.0,2528.450000000001,Cargo Electricidad,Débito,April,Friday,,fijo
+2024-04-12,Gasto,Gas,-45.0,2483.450000000001,Cargo Gas,Débito,April,Friday,,fijo
+2024-04-12,Gasto,Transporte,-44.78,2438.670000000001,Pago con tarjeta,Tarjeta,April,Friday,,gasto recurrente
+2024-04-14,Gasto,Alimentación,-50.56,2388.110000000001,Pago con tarjeta,Tarjeta,April,Sunday,,gasto recurrente
+2024-04-15,Gasto,Internet,-55.0,2333.110000000001,Cargo Internet,Débito,April,Monday,,fijo
+2024-04-15,Gasto,Telefonía,-35.0,2298.110000000001,Cargo Telefonía,Débito,April,Monday,,fijo
+2024-04-15,Gasto,Alimentación,-27.71,2270.400000000001,Pago con tarjeta,Tarjeta,April,Monday,,gasto recurrente
+2024-04-18,Gasto,Seguro,-45.0,2225.400000000001,Cargo Seguro,Débito,April,Thursday,,fijo
+2024-04-18,Gasto,Salud,-15.27,2210.130000000001,Pago con tarjeta,Tarjeta,April,Thursday,,gasto recurrente
+2024-04-18,Gasto,Ropa,-18.48,2191.650000000001,Pago con tarjeta,Tarjeta,April,Thursday,,gasto extraordinario
+2024-04-19,Gasto,Educación,-24.44,2167.210000000001,Pago con tarjeta,Tarjeta,April,Friday,,fijo
+2024-04-19,Gasto,Transporte,-43.52,2123.690000000001,Pago con tarjeta,Tarjeta,April,Friday,,gasto recurrente
+2024-04-20,Gasto,Streaming,-25.0,2098.690000000001,Cargo Streaming,Débito,April,Saturday,,fijo
+2024-04-20,Gasto,Ocio,-34.14,2064.550000000001,Pago con tarjeta,Tarjeta,April,Saturday,,gasto extraordinario
+2024-04-21,Gasto,Alimentación,-30.8,2033.750000000001,Pago con tarjeta,Tarjeta,April,Sunday,,gasto recurrente
+2024-04-21,Gasto,Restaurantes,-25.31,2008.440000000001,Pago con tarjeta,Tarjeta,April,Sunday,,gasto extraordinario
+2024-04-24,Gasto,Transporte,-47.65,1960.7900000000009,Pago con tarjeta,Tarjeta,April,Wednesday,,gasto recurrente
+2024-04-24,Gasto,Salud,-25.79,1935.000000000001,Pago con tarjeta,Tarjeta,April,Wednesday,,gasto recurrente
+2024-04-25,Gasto,Transporte,-36.07,1898.9300000000007,Pago con tarjeta,Tarjeta,April,Thursday,,gasto recurrente
+2024-04-25,Gasto,Restaurantes,-29.27,1869.6600000000008,Pago con tarjeta,Tarjeta,April,Thursday,,gasto extraordinario
+2024-04-25,Gasto,Gasto extraordinario,-419.3,1450.3600000000006,Compra excepcional,Tarjeta,April,Thursday,Saldo negativo,gasto extraordinario
+2024-04-26,Gasto,Alimentación,-14.82,1435.5400000000004,Pago con tarjeta,Tarjeta,April,Friday,Saldo negativo,gasto recurrente
+2024-04-27,Gasto,Transporte,-55.42,1380.1200000000003,Pago con tarjeta,Tarjeta,April,Saturday,Saldo negativo,gasto recurrente
+2024-04-27,Gasto,Alimentación,-11.25,1368.8700000000003,Pago con tarjeta,Tarjeta,April,Saturday,Saldo negativo,gasto recurrente
+2024-04-28,Gasto,Ocio,-55.97,1312.9000000000005,Pago con tarjeta,Tarjeta,April,Sunday,Saldo negativo,gasto extraordinario
+2024-04-28,Gasto,Ocio,-15.93,1296.9700000000007,Pago con tarjeta,Tarjeta,April,Sunday,Saldo negativo,gasto extraordinario
+2024-04-29,Gasto,Salud,-55.36,1241.6100000000006,Pago con tarjeta,Tarjeta,April,Monday,Saldo negativo,gasto recurrente
+2024-04-29,Gasto,Alimentación,-17.23,1224.3800000000006,Pago con tarjeta,Tarjeta,April,Monday,Saldo negativo,gasto recurrente
+2024-04-30,Gasto,Transporte,-38.75,1185.6300000000006,Pago con tarjeta,Tarjeta,April,Tuesday,Saldo negativo,gasto recurrente
+2024-04-30,Gasto,Restaurantes,-10.85,1174.7800000000007,Pago con tarjeta,Tarjeta,April,Tuesday,Saldo negativo,gasto extraordinario
+2024-04-30,Ingreso,Ingreso extra,186.72,1361.5000000000005,Ingreso puntual,Transferencia,April,Tuesday,Saldo negativo,ingreso de dinero
+2024-05-01,Ingreso,Salario,2427.84,3789.3400000000006,Nómina mensual,Transferencia,May,Wednesday,,ingreso de dinero
+2024-05-02,Gasto,Alimentación,-47.14,3742.2000000000007,Pago con tarjeta,Tarjeta,May,Thursday,,gasto recurrente
+2024-05-03,Gasto,Restaurantes,-38.19,3704.01,Pago con tarjeta,Tarjeta,May,Friday,,gasto extraordinario
+2024-05-03,Gasto,Gasto extraordinario,-448.59,3255.4200000000005,Compra excepcional,Tarjeta,May,Friday,,gasto extraordinario
+2024-05-05,Gasto,Alquiler,-900.0,2355.4200000000005,Cargo Alquiler,Débito,May,Sunday,,fijo
+2024-05-06,Gasto,Ropa,-26.17,2329.2500000000005,Pago con tarjeta,Tarjeta,May,Monday,,gasto extraordinario
+2024-05-07,Gasto,Préstamo personal,-220.0,2109.2500000000005,Cargo Préstamo personal,Débito,May,Tuesday,,fijo
+2024-05-08,Gasto,Restaurantes,-28.84,2080.4100000000003,Pago con tarjeta,Tarjeta,May,Wednesday,,gasto extraordinario
+2024-05-08,Gasto,Transporte,-16.07,2064.34,Pago con tarjeta,Tarjeta,May,Wednesday,,gasto recurrente
+2024-05-09,Gasto,Educación,-35.38,2028.96,Pago con tarjeta,Tarjeta,May,Thursday,,fijo
+2024-05-09,Gasto,Ropa,-58.9,1970.06,Pago con tarjeta,Tarjeta,May,Thursday,Saldo negativo,gasto extraordinario
+2024-05-10,Gasto,Alimentación,-36.5,1933.56,Pago con tarjeta,Tarjeta,May,Friday,Saldo negativo,gasto recurrente
+2024-05-10,Gasto,Bizum,-21.45,1912.1100000000001,Bizum enviado,Bizum,May,Friday,Saldo negativo,sin definir
+2024-05-11,Gasto,Ropa,-59.41,1852.7000000000003,Pago con tarjeta,Tarjeta,May,Saturday,Saldo negativo,gasto extraordinario
+2024-05-11,Gasto,Transporte,-49.96,1802.7400000000002,Pago con tarjeta,Tarjeta,May,Saturday,Saldo negativo,gasto recurrente
+2024-05-12,Gasto,Electricidad,-70.0,1732.7400000000002,Cargo Electricidad,Débito,May,Sunday,Saldo negativo,fijo
+2024-05-12,Gasto,Gas,-45.0,1687.7400000000002,Cargo Gas,Débito,May,Sunday,Saldo negativo,fijo
+2024-05-12,Gasto,Educación,-8.68,1679.0600000000004,Pago con tarjeta,Tarjeta,May,Sunday,Saldo negativo,fijo
+2024-05-12,Ingreso,Ingreso extra,138.06,1817.1200000000003,Ingreso puntual,Transferencia,May,Sunday,Saldo negativo,ingreso de dinero
+2024-05-13,Gasto,Ocio,-55.35,1761.7700000000004,Pago con tarjeta,Tarjeta,May,Monday,Saldo negativo,gasto extraordinario
+2024-05-13,Gasto,Transporte,-25.47,1736.3000000000006,Pago con tarjeta,Tarjeta,May,Monday,Saldo negativo,gasto recurrente
+2024-05-13,Ingreso,Ingreso extra,345.81,2082.1100000000006,Ingreso puntual,Transferencia,May,Monday,,ingreso de dinero
+2024-05-14,Gasto,Transporte,-30.68,2051.4300000000007,Pago con tarjeta,Tarjeta,May,Tuesday,,gasto recurrente
+2024-05-14,Gasto,Alimentación,-48.72,2002.710000000001,Pago con tarjeta,Tarjeta,May,Tuesday,Saldo negativo,gasto recurrente
+2024-05-15,Gasto,Internet,-55.0,1947.710000000001,Cargo Internet,Débito,May,Wednesday,Saldo negativo,fijo
+2024-05-15,Gasto,Telefonía,-35.0,1912.710000000001,Cargo Telefonía,Débito,May,Wednesday,Saldo negativo,fijo
+2024-05-15,Gasto,Restaurantes,-17.47,1895.2400000000011,Pago con tarjeta,Tarjeta,May,Wednesday,Saldo negativo,gasto extraordinario
+2024-05-15,Gasto,Restaurantes,-34.65,1860.590000000001,Pago con tarjeta,Tarjeta,May,Wednesday,Saldo negativo,gasto extraordinario
+2024-05-16,Gasto,Salud,-59.19,1801.400000000001,Pago con tarjeta,Tarjeta,May,Thursday,Saldo negativo,gasto recurrente
+2024-05-16,Gasto,Transporte,-16.93,1784.4700000000012,Pago con tarjeta,Tarjeta,May,Thursday,Saldo negativo,gasto recurrente
+2024-05-17,Gasto,Restaurantes,-11.49,1772.9800000000014,Pago con tarjeta,Tarjeta,May,Friday,Saldo negativo,gasto extraordinario
+2024-05-17,Gasto,Restaurantes,-33.87,1739.1100000000015,Pago con tarjeta,Tarjeta,May,Friday,Saldo negativo,gasto extraordinario
+2024-05-18,Gasto,Seguro,-45.0,1694.1100000000015,Cargo Seguro,Débito,May,Saturday,Saldo negativo,fijo
+2024-05-18,Gasto,Salud,-39.07,1655.0400000000013,Pago con tarjeta,Tarjeta,May,Saturday,Saldo negativo,gasto recurrente
+2024-05-20,Gasto,Streaming,-25.0,1630.0400000000013,Cargo Streaming,Débito,May,Monday,Saldo negativo,fijo
+2024-05-20,Gasto,Otros,-17.59,1612.4500000000012,Pago con tarjeta,Tarjeta,May,Monday,Saldo negativo,gasto extraordinario
+2024-05-20,Gasto,Alimentación,-40.88,1571.570000000001,Pago con tarjeta,Tarjeta,May,Monday,Saldo negativo,gasto recurrente
+2024-05-20,Ingreso,Bizum,102.08,1673.650000000001,Bizum recibido,Bizum,May,Monday,Saldo negativo,sin definir
+2024-05-21,Gasto,Restaurantes,-42.51,1631.1400000000008,Pago con tarjeta,Tarjeta,May,Tuesday,Saldo negativo,gasto extraordinario
+2024-05-21,Gasto,Otros,-46.09,1585.0500000000006,Pago con tarjeta,Tarjeta,May,Tuesday,Saldo negativo,gasto extraordinario
+2024-05-22,Gasto,Salud,-57.67,1527.3800000000006,Pago con tarjeta,Tarjeta,May,Wednesday,Saldo negativo,gasto recurrente
+2024-05-23,Gasto,Ocio,-33.77,1493.6100000000006,Pago con tarjeta,Tarjeta,May,Thursday,Saldo negativo,gasto extraordinario
+2024-05-23,Gasto,Ocio,-30.61,1463.0000000000005,Pago con tarjeta,Tarjeta,May,Thursday,Saldo negativo,gasto extraordinario
+2024-05-24,Gasto,Alimentación,-11.36,1451.6400000000003,Pago con tarjeta,Tarjeta,May,Friday,Saldo negativo,gasto recurrente
+2024-05-24,Gasto,Alimentación,-42.49,1409.1500000000005,Pago con tarjeta,Tarjeta,May,Friday,Saldo negativo,gasto recurrente
+2024-05-25,Gasto,Transporte,-53.39,1355.7600000000007,Pago con tarjeta,Tarjeta,May,Saturday,Saldo negativo,gasto recurrente
+2024-05-25,Gasto,Ocio,-49.94,1305.8200000000006,Pago con tarjeta,Tarjeta,May,Saturday,Saldo negativo,gasto extraordinario
+2024-05-26,Gasto,Transporte,-44.05,1261.7700000000004,Pago con tarjeta,Tarjeta,May,Sunday,Saldo negativo,gasto recurrente
+2024-05-26,Ingreso,Bizum,83.69,1345.4600000000005,Bizum recibido,Bizum,May,Sunday,Saldo negativo,sin definir
+2024-05-27,Gasto,Educación,-9.77,1335.6900000000005,Pago con tarjeta,Tarjeta,May,Monday,Saldo negativo,fijo
+2024-05-27,Gasto,Ocio,-23.46,1312.2300000000005,Pago con tarjeta,Tarjeta,May,Monday,Saldo negativo,gasto extraordinario
+2024-05-28,Gasto,Alimentación,-26.92,1285.3100000000004,Pago con tarjeta,Tarjeta,May,Tuesday,Saldo negativo,gasto recurrente
+2024-05-28,Gasto,Transporte,-41.52,1243.7900000000004,Pago con tarjeta,Tarjeta,May,Tuesday,Saldo negativo,gasto recurrente
+2024-05-29,Gasto,Ocio,-25.67,1218.1200000000003,Pago con tarjeta,Tarjeta,May,Wednesday,Saldo negativo,gasto extraordinario
+2024-05-30,Gasto,Ocio,-46.37,1171.7500000000005,Pago con tarjeta,Tarjeta,May,Thursday,Saldo negativo,gasto extraordinario
+2024-05-31,Gasto,Salud,-9.11,1162.6400000000003,Pago con tarjeta,Tarjeta,May,Friday,Saldo negativo,gasto recurrente
+2024-06-01,Ingreso,Salario,1951.89,3114.5300000000007,Nómina mensual,Transferencia,June,Saturday,,ingreso de dinero
+2024-06-02,Gasto,Restaurantes,-38.2,3076.3300000000004,Pago con tarjeta,Tarjeta,June,Sunday,,gasto extraordinario
+2024-06-03,Gasto,Ocio,-20.42,3055.9100000000003,Pago con tarjeta,Tarjeta,June,Monday,,gasto extraordinario
+2024-06-03,Gasto,Alimentación,-22.47,3033.4400000000005,Pago con tarjeta,Tarjeta,June,Monday,,gasto recurrente
+2024-06-04,Gasto,Educación,-10.35,3023.09,Pago con tarjeta,Tarjeta,June,Tuesday,,fijo
+2024-06-05,Gasto,Alquiler,-900.0,2123.09,Cargo Alquiler,Débito,June,Wednesday,,fijo
+2024-06-07,Gasto,Préstamo personal,-220.0,1903.0900000000001,Cargo Préstamo personal,Débito,June,Friday,Saldo negativo,fijo
+2024-06-09,Gasto,Alimentación,-15.04,1888.0500000000002,Pago con tarjeta,Tarjeta,June,Sunday,Saldo negativo,gasto recurrente
+2024-06-11,Gasto,Transporte,-33.54,1854.5100000000002,Pago con tarjeta,Tarjeta,June,Tuesday,Saldo negativo,gasto recurrente
+2024-06-11,Gasto,Otros,-54.67,1799.8400000000001,Pago con tarjeta,Tarjeta,June,Tuesday,Saldo negativo,gasto extraordinario
+2024-06-12,Gasto,Electricidad,-70.0,1729.8400000000001,Cargo Electricidad,Débito,June,Wednesday,Saldo negativo,fijo
+2024-06-12,Gasto,Gas,-45.0,1684.8400000000001,Cargo Gas,Débito,June,Wednesday,Saldo negativo,fijo
+2024-06-12,Gasto,Transporte,-12.76,1672.08,Pago con tarjeta,Tarjeta,June,Wednesday,Saldo negativo,gasto recurrente
+2024-06-12,Gasto,Salud,-21.81,1650.27,Pago con tarjeta,Tarjeta,June,Wednesday,Saldo negativo,gasto recurrente
+2024-06-14,Gasto,Alimentación,-7.02,1643.25,Pago con tarjeta,Tarjeta,June,Friday,Saldo negativo,gasto recurrente
+2024-06-14,Gasto,Ocio,-10.54,1632.71,Pago con tarjeta,Tarjeta,June,Friday,Saldo negativo,gasto extraordinario
+2024-06-15,Gasto,Internet,-55.0,1577.71,Cargo Internet,Débito,June,Saturday,Saldo negativo,fijo
+2024-06-15,Gasto,Telefonía,-35.0,1542.71,Cargo Telefonía,Débito,June,Saturday,Saldo negativo,fijo
+2024-06-16,Gasto,Salud,-26.09,1516.62,Pago con tarjeta,Tarjeta,June,Sunday,Saldo negativo,gasto recurrente
+2024-06-18,Gasto,Seguro,-45.0,1471.62,Cargo Seguro,Débito,June,Tuesday,Saldo negativo,fijo
+2024-06-19,Gasto,Ocio,-17.84,1453.7799999999997,Pago con tarjeta,Tarjeta,June,Wednesday,Saldo negativo,gasto extraordinario
+2024-06-20,Gasto,Streaming,-25.0,1428.7799999999997,Cargo Streaming,Débito,June,Thursday,Saldo negativo,fijo
+2024-06-20,Ingreso,Bizum,100.19,1528.9699999999998,Bizum recibido,Bizum,June,Thursday,Saldo negativo,sin definir
+2024-06-20,Ingreso,Ingreso extra,257.98,1786.9499999999998,Ingreso puntual,Transferencia,June,Thursday,Saldo negativo,ingreso de dinero
+2024-06-22,Gasto,Transporte,-21.51,1765.4399999999996,Pago con tarjeta,Tarjeta,June,Saturday,Saldo negativo,gasto recurrente
+2024-06-23,Gasto,Alimentación,-25.91,1739.5299999999997,Pago con tarjeta,Tarjeta,June,Sunday,Saldo negativo,gasto recurrente
+2024-06-23,Gasto,Salud,-28.39,1711.1399999999999,Pago con tarjeta,Tarjeta,June,Sunday,Saldo negativo,gasto recurrente
+2024-06-24,Gasto,Alimentación,-20.1,1691.04,Pago con tarjeta,Tarjeta,June,Monday,Saldo negativo,gasto recurrente
+2024-06-24,Gasto,Ocio,-11.5,1679.54,Pago con tarjeta,Tarjeta,June,Monday,Saldo negativo,gasto extraordinario
+2024-06-25,Gasto,Otros,-43.15,1636.3899999999999,Pago con tarjeta,Tarjeta,June,Tuesday,Saldo negativo,gasto extraordinario
+2024-06-25,Gasto,Restaurantes,-41.67,1594.7199999999998,Pago con tarjeta,Tarjeta,June,Tuesday,Saldo negativo,gasto extraordinario
+2024-06-27,Gasto,Alimentación,-50.87,1543.85,Pago con tarjeta,Tarjeta,June,Thursday,Saldo negativo,gasto recurrente
+2024-06-27,Gasto,Restaurantes,-31.47,1512.38,Pago con tarjeta,Tarjeta,June,Thursday,Saldo negativo,gasto extraordinario
+2024-06-28,Gasto,Ropa,-19.96,1492.42,Pago con tarjeta,Tarjeta,June,Friday,Saldo negativo,gasto extraordinario
+2024-06-28,Gasto,Alimentación,-45.17,1447.25,Pago con tarjeta,Tarjeta,June,Friday,Saldo negativo,gasto recurrente
+2024-06-30,Gasto,Restaurantes,-54.49,1392.7600000000002,Pago con tarjeta,Tarjeta,June,Sunday,Saldo negativo,gasto extraordinario
+2024-06-30,Ingreso,Ingreso extra,288.53,1681.29,Ingreso puntual,Transferencia,June,Sunday,Saldo negativo,ingreso de dinero
+2024-07-01,Ingreso,Salario,2442.58,4123.87,Nómina mensual,Transferencia,July,Monday,,ingreso de dinero
+2024-07-01,Gasto,Alimentación,-15.8,4108.07,Pago con tarjeta,Tarjeta,July,Monday,,gasto recurrente
+2024-07-01,Gasto,Alimentación,-13.59,4094.48,Pago con tarjeta,Tarjeta,July,Monday,,gasto recurrente
+2024-07-01,Ingreso,Ingreso extra,334.98,4429.46,Ingreso puntual,Transferencia,July,Monday,,ingreso de dinero
+2024-07-02,Gasto,Otros,-40.07,4389.39,Pago con tarjeta,Tarjeta,July,Tuesday,,gasto extraordinario
+2024-07-02,Gasto,Ropa,-33.04,4356.35,Pago con tarjeta,Tarjeta,July,Tuesday,,gasto extraordinario
+2024-07-03,Gasto,Alimentación,-13.91,4342.44,Pago con tarjeta,Tarjeta,July,Wednesday,,gasto recurrente
+2024-07-03,Gasto,Ocio,-24.95,4317.49,Pago con tarjeta,Tarjeta,July,Wednesday,,gasto extraordinario
+2024-07-04,Gasto,Alimentación,-24.15,4293.34,Pago con tarjeta,Tarjeta,July,Thursday,,gasto recurrente
+2024-07-05,Gasto,Alquiler,-900.0,3393.34,Cargo Alquiler,Débito,July,Friday,,fijo
+2024-07-05,Gasto,Otros,-55.21,3338.13,Pago con tarjeta,Tarjeta,July,Friday,,gasto extraordinario
+2024-07-06,Gasto,Alimentación,-28.85,3309.2799999999997,Pago con tarjeta,Tarjeta,July,Saturday,,gasto recurrente
+2024-07-06,Gasto,Transporte,-44.53,3264.75,Pago con tarjeta,Tarjeta,July,Saturday,,gasto recurrente
+2024-07-06,Gasto,Gasto extraordinario,-296.91,2967.84,Compra excepcional,Tarjeta,July,Saturday,,gasto extraordinario
+2024-07-07,Gasto,Préstamo personal,-220.0,2747.84,Cargo Préstamo personal,Débito,July,Sunday,,fijo
+2024-07-07,Gasto,Alimentación,-43.24,2704.6000000000004,Pago con tarjeta,Tarjeta,July,Sunday,,gasto recurrente
+2024-07-08,Gasto,Ropa,-18.41,2686.1900000000005,Pago con tarjeta,Tarjeta,July,Monday,,gasto extraordinario
+2024-07-08,Gasto,Alimentación,-11.42,2674.7700000000004,Pago con tarjeta,Tarjeta,July,Monday,,gasto recurrente
+2024-07-08,Ingreso,Ingreso extra,379.59,3054.3600000000006,Ingreso puntual,Transferencia,July,Monday,,ingreso de dinero
+2024-07-09,Gasto,Alimentación,-48.14,3006.2200000000003,Pago con tarjeta,Tarjeta,July,Tuesday,,gasto recurrente
+2024-07-09,Gasto,Otros,-40.52,2965.7000000000003,Pago con tarjeta,Tarjeta,July,Tuesday,,gasto extraordinario
+2024-07-10,Gasto,Transporte,-50.5,2915.2000000000003,Pago con tarjeta,Tarjeta,July,Wednesday,,gasto recurrente
+2024-07-10,Gasto,Restaurantes,-41.47,2873.7300000000005,Pago con tarjeta,Tarjeta,July,Wednesday,,gasto extraordinario
+2024-07-11,Gasto,Ocio,-32.92,2840.8100000000004,Pago con tarjeta,Tarjeta,July,Thursday,,gasto extraordinario
+2024-07-12,Gasto,Electricidad,-70.0,2770.8100000000004,Cargo Electricidad,Débito,July,Friday,,fijo
+2024-07-12,Gasto,Gas,-45.0,2725.8100000000004,Cargo Gas,Débito,July,Friday,,fijo
+2024-07-12,Gasto,Ropa,-42.25,2683.5600000000004,Pago con tarjeta,Tarjeta,July,Friday,,gasto extraordinario
+2024-07-13,Gasto,Transporte,-33.65,2649.9100000000003,Pago con tarjeta,Tarjeta,July,Saturday,,gasto recurrente
+2024-07-13,Gasto,Alimentación,-24.62,2625.2900000000004,Pago con tarjeta,Tarjeta,July,Saturday,,gasto recurrente
+2024-07-15,Gasto,Internet,-55.0,2570.2900000000004,Cargo Internet,Débito,July,Monday,,fijo
+2024-07-15,Gasto,Telefonía,-35.0,2535.2900000000004,Cargo Telefonía,Débito,July,Monday,,fijo
+2024-07-16,Gasto,Salud,-38.09,2497.2000000000003,Pago con tarjeta,Tarjeta,July,Tuesday,,gasto recurrente
+2024-07-16,Gasto,Restaurantes,-45.71,2451.4900000000002,Pago con tarjeta,Tarjeta,July,Tuesday,,gasto extraordinario
+2024-07-17,Gasto,Otros,-22.76,2428.73,Pago con tarjeta,Tarjeta,July,Wednesday,,gasto extraordinario
+2024-07-17,Gasto,Restaurantes,-27.96,2400.77,Pago con tarjeta,Tarjeta,July,Wednesday,,gasto extraordinario
+2024-07-18,Gasto,Seguro,-45.0,2355.77,Cargo Seguro,Débito,July,Thursday,Saldo negativo,fijo
+2024-07-19,Gasto,Alimentación,-44.57,2311.2,Pago con tarjeta,Tarjeta,July,Friday,Saldo negativo,gasto recurrente
+2024-07-19,Gasto,Restaurantes,-20.86,2290.3399999999997,Pago con tarjeta,Tarjeta,July,Friday,Saldo negativo,gasto extraordinario
+2024-07-20,Gasto,Streaming,-25.0,2265.3399999999997,Cargo Streaming,Débito,July,Saturday,Saldo negativo,fijo
+2024-07-20,Gasto,Alimentación,-35.62,2229.72,Pago con tarjeta,Tarjeta,July,Saturday,Saldo negativo,gasto recurrente
+2024-07-20,Gasto,Alimentación,-24.44,2205.2799999999997,Pago con tarjeta,Tarjeta,July,Saturday,Saldo negativo,gasto recurrente
+2024-07-20,Gasto,Gasto extraordinario,-414.78,1790.5,Compra excepcional,Tarjeta,July,Saturday,Saldo negativo,gasto extraordinario
+2024-07-21,Gasto,Restaurantes,-20.27,1770.23,Pago con tarjeta,Tarjeta,July,Sunday,Saldo negativo,gasto extraordinario
+2024-07-21,Gasto,Bizum,-28.67,1741.56,Bizum enviado,Bizum,July,Sunday,Saldo negativo,sin definir
+2024-07-22,Gasto,Transporte,-57.33,1684.23,Pago con tarjeta,Tarjeta,July,Monday,Saldo negativo,gasto recurrente
+2024-07-22,Gasto,Alimentación,-22.68,1661.5500000000002,Pago con tarjeta,Tarjeta,July,Monday,Saldo negativo,gasto recurrente
+2024-07-23,Gasto,Salud,-49.89,1611.6600000000003,Pago con tarjeta,Tarjeta,July,Tuesday,Saldo negativo,gasto recurrente
+2024-07-24,Gasto,Otros,-14.39,1597.2700000000004,Pago con tarjeta,Tarjeta,July,Wednesday,Saldo negativo,gasto extraordinario
+2024-07-24,Gasto,Alimentación,-9.09,1588.1800000000003,Pago con tarjeta,Tarjeta,July,Wednesday,Saldo negativo,gasto recurrente
+2024-07-25,Gasto,Transporte,-10.16,1578.0200000000004,Pago con tarjeta,Tarjeta,July,Thursday,Saldo negativo,gasto recurrente
+2024-07-26,Gasto,Alimentación,-49.81,1528.2100000000005,Pago con tarjeta,Tarjeta,July,Friday,Saldo negativo,gasto recurrente
+2024-07-26,Gasto,Transporte,-21.22,1506.9900000000007,Pago con tarjeta,Tarjeta,July,Friday,Saldo negativo,gasto recurrente
+2024-07-27,Gasto,Alimentación,-37.94,1469.0500000000006,Pago con tarjeta,Tarjeta,July,Saturday,Saldo negativo,gasto recurrente
+2024-07-27,Gasto,Alimentación,-36.57,1432.4800000000005,Pago con tarjeta,Tarjeta,July,Saturday,Saldo negativo,gasto recurrente
+2024-07-28,Gasto,Otros,-21.28,1411.2000000000003,Pago con tarjeta,Tarjeta,July,Sunday,Saldo negativo,gasto extraordinario
+2024-07-29,Gasto,Transporte,-53.18,1358.0200000000004,Pago con tarjeta,Tarjeta,July,Monday,Saldo negativo,gasto recurrente
+2024-07-29,Gasto,Transporte,-9.58,1348.4400000000005,Pago con tarjeta,Tarjeta,July,Monday,Saldo negativo,gasto recurrente
+2024-07-30,Gasto,Salud,-42.68,1305.7600000000007,Pago con tarjeta,Tarjeta,July,Tuesday,Saldo negativo,gasto recurrente
+2024-07-30,Gasto,Transporte,-26.13,1279.6300000000006,Pago con tarjeta,Tarjeta,July,Tuesday,Saldo negativo,gasto recurrente
+2024-08-01,Ingreso,Salario,2248.55,3528.1800000000007,Nómina mensual,Transferencia,August,Thursday,,ingreso de dinero
+2024-08-01,Gasto,Salud,-29.02,3499.1600000000008,Pago con tarjeta,Tarjeta,August,Thursday,,gasto recurrente
+2024-08-03,Gasto,Transporte,-25.08,3474.080000000001,Pago con tarjeta,Tarjeta,August,Saturday,,gasto recurrente
+2024-08-03,Gasto,Transporte,-39.71,3434.370000000001,Pago con tarjeta,Tarjeta,August,Saturday,,gasto recurrente
+2024-08-04,Gasto,Restaurantes,-19.82,3414.550000000001,Pago con tarjeta,Tarjeta,August,Sunday,,gasto extraordinario
+2024-08-04,Gasto,Alimentación,-33.47,3381.080000000001,Pago con tarjeta,Tarjeta,August,Sunday,,gasto recurrente
+2024-08-05,Gasto,Alquiler,-900.0,2481.080000000001,Cargo Alquiler,Débito,August,Monday,Saldo negativo,fijo
+2024-08-05,Gasto,Otros,-52.05,2429.0300000000007,Pago con tarjeta,Tarjeta,August,Monday,Saldo negativo,gasto extraordinario
+2024-08-05,Gasto,Educación,-50.32,2378.7100000000005,Pago con tarjeta,Tarjeta,August,Monday,Saldo negativo,fijo
+2024-08-06,Gasto,Transporte,-47.77,2330.9400000000005,Pago con tarjeta,Tarjeta,August,Tuesday,Saldo negativo,gasto recurrente
+2024-08-06,Gasto,Ropa,-45.34,2285.6000000000004,Pago con tarjeta,Tarjeta,August,Tuesday,Saldo negativo,gasto extraordinario
+2024-08-07,Gasto,Préstamo personal,-220.0,2065.6000000000004,Cargo Préstamo personal,Débito,August,Wednesday,Saldo negativo,fijo
+2024-08-07,Gasto,Alimentación,-48.99,2016.6100000000006,Pago con tarjeta,Tarjeta,August,Wednesday,Saldo negativo,gasto recurrente
+2024-08-08,Gasto,Alimentación,-28.28,1988.3300000000004,Pago con tarjeta,Tarjeta,August,Thursday,Saldo negativo,gasto recurrente
+2024-08-10,Gasto,Otros,-50.81,1937.5200000000004,Pago con tarjeta,Tarjeta,August,Saturday,Saldo negativo,gasto extraordinario
+2024-08-12,Gasto,Electricidad,-70.0,1867.5200000000004,Cargo Electricidad,Débito,August,Monday,Saldo negativo,fijo
+2024-08-12,Gasto,Gas,-45.0,1822.5200000000004,Cargo Gas,Débito,August,Monday,Saldo negativo,fijo
+2024-08-12,Gasto,Otros,-33.14,1789.3800000000006,Pago con tarjeta,Tarjeta,August,Monday,Saldo negativo,gasto extraordinario
+2024-08-12,Gasto,Ropa,-36.61,1752.7700000000004,Pago con tarjeta,Tarjeta,August,Monday,Saldo negativo,gasto extraordinario
+2024-08-12,Gasto,Bizum,-79.65,1673.1200000000003,Bizum enviado,Bizum,August,Monday,Saldo negativo,sin definir
+2024-08-14,Gasto,Educación,-48.04,1625.0800000000004,Pago con tarjeta,Tarjeta,August,Wednesday,Saldo negativo,fijo
+2024-08-15,Gasto,Internet,-55.0,1570.0800000000004,Cargo Internet,Débito,August,Thursday,Saldo negativo,fijo
+2024-08-15,Gasto,Telefonía,-35.0,1535.0800000000004,Cargo Telefonía,Débito,August,Thursday,Saldo negativo,fijo
+2024-08-15,Gasto,Restaurantes,-42.71,1492.3700000000003,Pago con tarjeta,Tarjeta,August,Thursday,Saldo negativo,gasto extraordinario
+2024-08-15,Gasto,Alimentación,-34.37,1458.0000000000005,Pago con tarjeta,Tarjeta,August,Thursday,Saldo negativo,gasto recurrente
+2024-08-16,Gasto,Restaurantes,-35.84,1422.1600000000003,Pago con tarjeta,Tarjeta,August,Friday,Saldo negativo,gasto extraordinario
+2024-08-16,Gasto,Alimentación,-20.6,1401.5600000000004,Pago con tarjeta,Tarjeta,August,Friday,Saldo negativo,gasto recurrente
+2024-08-17,Gasto,Transporte,-33.83,1367.7300000000005,Pago con tarjeta,Tarjeta,August,Saturday,Saldo negativo,gasto recurrente
+2024-08-18,Gasto,Seguro,-45.0,1322.7300000000005,Cargo Seguro,Débito,August,Sunday,Saldo negativo,fijo
+2024-08-18,Gasto,Restaurantes,-45.67,1277.0600000000004,Pago con tarjeta,Tarjeta,August,Sunday,Saldo negativo,gasto extraordinario
+2024-08-18,Gasto,Alimentación,-21.88,1255.1800000000003,Pago con tarjeta,Tarjeta,August,Sunday,Saldo negativo,gasto recurrente
+2024-08-20,Gasto,Streaming,-25.0,1230.1800000000003,Cargo Streaming,Débito,August,Tuesday,Saldo negativo,fijo
+2024-08-20,Gasto,Alimentación,-16.82,1213.3600000000001,Pago con tarjeta,Tarjeta,August,Tuesday,Saldo negativo,gasto recurrente
+2024-08-21,Gasto,Alimentación,-35.1,1178.2600000000002,Pago con tarjeta,Tarjeta,August,Wednesday,Saldo negativo,gasto recurrente
+2024-08-22,Gasto,Alimentación,-36.39,1141.8700000000003,Pago con tarjeta,Tarjeta,August,Thursday,Saldo negativo,gasto recurrente
+2024-08-22,Gasto,Otros,-42.42,1099.4500000000003,Pago con tarjeta,Tarjeta,August,Thursday,Saldo negativo,gasto extraordinario
+2024-08-23,Gasto,Alimentación,-49.31,1050.1400000000003,Pago con tarjeta,Tarjeta,August,Friday,Saldo negativo,gasto recurrente
+2024-08-23,Gasto,Transporte,-47.25,1002.8900000000003,Pago con tarjeta,Tarjeta,August,Friday,Saldo negativo,gasto recurrente
+2024-08-24,Gasto,Bizum,-43.09,959.8000000000002,Bizum enviado,Bizum,August,Saturday,Saldo negativo,sin definir
+2024-08-25,Gasto,Alimentación,-50.67,909.1300000000001,Pago con tarjeta,Tarjeta,August,Sunday,Saldo negativo,gasto recurrente
+2024-08-26,Gasto,Alimentación,-41.62,867.5100000000002,Pago con tarjeta,Tarjeta,August,Monday,Saldo negativo,gasto recurrente
+2024-08-26,Gasto,Salud,-39.64,827.8700000000003,Pago con tarjeta,Tarjeta,August,Monday,Saldo negativo,gasto recurrente
+2024-08-27,Gasto,Alimentación,-22.72,805.1500000000005,Pago con tarjeta,Tarjeta,August,Tuesday,Saldo negativo,gasto recurrente
+2024-08-28,Gasto,Alimentación,-48.45,756.7000000000007,Pago con tarjeta,Tarjeta,August,Wednesday,Saldo negativo,gasto recurrente
+2024-08-28,Gasto,Salud,-16.41,740.2900000000009,Pago con tarjeta,Tarjeta,August,Wednesday,Saldo negativo,gasto recurrente
+2024-08-29,Gasto,Otros,-14.05,726.2400000000007,Pago con tarjeta,Tarjeta,August,Thursday,Saldo negativo,gasto extraordinario
+2024-08-29,Gasto,Ropa,-27.79,698.4500000000007,Pago con tarjeta,Tarjeta,August,Thursday,Saldo negativo,gasto extraordinario
+2024-08-31,Gasto,Alimentación,-49.11,649.340000000001,Pago con tarjeta,Tarjeta,August,Saturday,Saldo negativo,gasto recurrente
+2024-08-31,Gasto,Transporte,-56.5,592.840000000001,Pago con tarjeta,Tarjeta,August,Saturday,Saldo negativo,gasto recurrente
+2024-09-01,Ingreso,Salario,2146.49,2739.330000000001,Nómina mensual,Transferencia,September,Sunday,Saldo negativo,ingreso de dinero
+2024-09-03,Gasto,Otros,-36.58,2702.750000000001,Pago con tarjeta,Tarjeta,September,Tuesday,Saldo negativo,gasto extraordinario
+2024-09-04,Gasto,Alimentación,-44.44,2658.310000000001,Pago con tarjeta,Tarjeta,September,Wednesday,Saldo negativo,gasto recurrente
+2024-09-04,Gasto,Alimentación,-7.58,2650.730000000001,Pago con tarjeta,Tarjeta,September,Wednesday,Saldo negativo,gasto recurrente
+2024-09-05,Gasto,Alquiler,-900.0,1750.730000000001,Cargo Alquiler,Débito,September,Thursday,Saldo negativo,fijo
+2024-09-05,Gasto,Restaurantes,-11.02,1739.710000000001,Pago con tarjeta,Tarjeta,September,Thursday,Saldo negativo,gasto extraordinario
+2024-09-05,Gasto,Otros,-11.0,1728.710000000001,Pago con tarjeta,Tarjeta,September,Thursday,Saldo negativo,gasto extraordinario
+2024-09-06,Gasto,Ropa,-21.8,1706.9100000000008,Pago con tarjeta,Tarjeta,September,Friday,Saldo negativo,gasto extraordinario
+2024-09-07,Gasto,Préstamo personal,-220.0,1486.9100000000008,Cargo Préstamo personal,Débito,September,Saturday,Saldo negativo,fijo
+2024-09-07,Gasto,Ropa,-39.99,1446.920000000001,Pago con tarjeta,Tarjeta,September,Saturday,Saldo negativo,gasto extraordinario
+2024-09-07,Gasto,Alimentación,-34.37,1412.550000000001,Pago con tarjeta,Tarjeta,September,Saturday,Saldo negativo,gasto recurrente
+2024-09-09,Gasto,Alimentación,-23.91,1388.6400000000012,Pago con tarjeta,Tarjeta,September,Monday,Saldo negativo,gasto recurrente
+2024-09-09,Gasto,Otros,-20.93,1367.7100000000014,Pago con tarjeta,Tarjeta,September,Monday,Saldo negativo,gasto extraordinario
+2024-09-10,Gasto,Alimentación,-30.46,1337.2500000000014,Pago con tarjeta,Tarjeta,September,Tuesday,Saldo negativo,gasto recurrente
+2024-09-10,Gasto,Gasto extraordinario,-258.54,1078.7100000000014,Compra excepcional,Tarjeta,September,Tuesday,Saldo negativo,gasto extraordinario
+2024-09-12,Gasto,Electricidad,-70.0,1008.7100000000014,Cargo Electricidad,Débito,September,Thursday,Saldo negativo,fijo
+2024-09-12,Gasto,Gas,-45.0,963.7100000000014,Cargo Gas,Débito,September,Thursday,Saldo negativo,fijo
+2024-09-12,Gasto,Restaurantes,-21.83,941.8800000000015,Pago con tarjeta,Tarjeta,September,Thursday,Saldo negativo,gasto extraordinario
+2024-09-13,Gasto,Restaurantes,-27.55,914.3300000000013,Pago con tarjeta,Tarjeta,September,Friday,Saldo negativo,gasto extraordinario
+2024-09-13,Gasto,Restaurantes,-31.89,882.4400000000014,Pago con tarjeta,Tarjeta,September,Friday,Saldo negativo,gasto extraordinario
+2024-09-15,Gasto,Internet,-55.0,827.4400000000014,Cargo Internet,Débito,September,Sunday,Saldo negativo,fijo
+2024-09-15,Gasto,Telefonía,-35.0,792.4400000000014,Cargo Telefonía,Débito,September,Sunday,Saldo negativo,fijo
+2024-09-15,Gasto,Otros,-21.16,771.2800000000016,Pago con tarjeta,Tarjeta,September,Sunday,Saldo negativo,gasto extraordinario
+2024-09-15,Gasto,Ropa,-50.91,720.3700000000017,Pago con tarjeta,Tarjeta,September,Sunday,Saldo negativo,gasto extraordinario
+2024-09-16,Gasto,Alimentación,-29.72,690.6500000000015,Pago con tarjeta,Tarjeta,September,Monday,Saldo negativo,gasto recurrente
+2024-09-17,Gasto,Alimentación,-39.78,650.8700000000017,Pago con tarjeta,Tarjeta,September,Tuesday,Saldo negativo,gasto recurrente
+2024-09-18,Gasto,Seguro,-45.0,605.8700000000017,Cargo Seguro,Débito,September,Wednesday,Saldo negativo,fijo
+2024-09-18,Gasto,Ocio,-26.37,579.5000000000018,Pago con tarjeta,Tarjeta,September,Wednesday,Saldo negativo,gasto extraordinario
+2024-09-18,Gasto,Alimentación,-22.25,557.2500000000018,Pago con tarjeta,Tarjeta,September,Wednesday,Saldo negativo,gasto recurrente
+2024-09-19,Gasto,Transporte,-51.19,506.0600000000022,Pago con tarjeta,Tarjeta,September,Thursday,Saldo negativo,gasto recurrente
+2024-09-19,Ingreso,Bizum,56.67,562.7300000000023,Bizum recibido,Bizum,September,Thursday,Saldo negativo,sin definir
+2024-09-20,Gasto,Streaming,-25.0,537.7300000000023,Cargo Streaming,Débito,September,Friday,Saldo negativo,fijo
+2024-09-21,Gasto,Transporte,-48.28,489.45000000000255,Pago con tarjeta,Tarjeta,September,Saturday,Saldo negativo,gasto recurrente
+2024-09-21,Gasto,Transporte,-35.58,453.8700000000026,Pago con tarjeta,Tarjeta,September,Saturday,Saldo negativo,gasto recurrente
+2024-09-21,Gasto,Bizum,-116.53,337.3400000000029,Bizum enviado,Bizum,September,Saturday,Saldo negativo,sin definir
+2024-09-22,Gasto,Otros,-35.08,302.26000000000295,Pago con tarjeta,Tarjeta,September,Sunday,Saldo negativo,gasto extraordinario
+2024-09-22,Ingreso,Ingreso extra,115.46,417.720000000003,Ingreso puntual,Transferencia,September,Sunday,Saldo negativo,ingreso de dinero
+2024-09-23,Gasto,Restaurantes,-30.47,387.25000000000273,Pago con tarjeta,Tarjeta,September,Monday,Saldo negativo,gasto extraordinario
+2024-09-24,Gasto,Ocio,-33.79,353.46000000000276,Pago con tarjeta,Tarjeta,September,Tuesday,Saldo negativo,gasto extraordinario
+2024-09-24,Gasto,Bizum,-119.17,234.2900000000027,Bizum enviado,Bizum,September,Tuesday,Saldo negativo,sin definir
+2024-09-25,Gasto,Alimentación,-40.17,194.12000000000262,Pago con tarjeta,Tarjeta,September,Wednesday,Saldo negativo,gasto recurrente
+2024-09-28,Gasto,Alimentación,-49.46,144.66000000000258,Pago con tarjeta,Tarjeta,September,Saturday,Saldo negativo,gasto recurrente
+2024-09-29,Gasto,Transporte,-34.43,110.23000000000229,Pago con tarjeta,Tarjeta,September,Sunday,Saldo negativo,gasto recurrente
+2024-10-01,Ingreso,Salario,2345.26,2455.4900000000025,Nómina mensual,Transferencia,October,Tuesday,Saldo negativo,ingreso de dinero
+2024-10-01,Gasto,Ropa,-46.57,2408.9200000000023,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,gasto extraordinario
+2024-10-01,Gasto,Educación,-22.45,2386.4700000000025,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,fijo
+2024-10-02,Gasto,Ocio,-40.03,2346.4400000000023,Pago con tarjeta,Tarjeta,October,Wednesday,Saldo negativo,gasto extraordinario
+2024-10-03,Gasto,Salud,-51.68,2294.7600000000025,Pago con tarjeta,Tarjeta,October,Thursday,Saldo negativo,gasto recurrente
+2024-10-03,Gasto,Salud,-8.57,2286.1900000000023,Pago con tarjeta,Tarjeta,October,Thursday,Saldo negativo,gasto recurrente
+2024-10-05,Gasto,Alquiler,-900.0,1386.1900000000023,Cargo Alquiler,Débito,October,Saturday,Saldo negativo,fijo
+2024-10-05,Gasto,Restaurantes,-45.55,1340.6400000000021,Pago con tarjeta,Tarjeta,October,Saturday,Saldo negativo,gasto extraordinario
+2024-10-06,Gasto,Alimentación,-8.08,1332.5600000000022,Pago con tarjeta,Tarjeta,October,Sunday,Saldo negativo,gasto recurrente
+2024-10-06,Gasto,Alimentación,-14.82,1317.740000000002,Pago con tarjeta,Tarjeta,October,Sunday,Saldo negativo,gasto recurrente
+2024-10-07,Gasto,Préstamo personal,-220.0,1097.740000000002,Cargo Préstamo personal,Débito,October,Monday,Saldo negativo,fijo
+2024-10-07,Gasto,Alimentación,-32.44,1065.300000000002,Pago con tarjeta,Tarjeta,October,Monday,Saldo negativo,gasto recurrente
+2024-10-08,Gasto,Transporte,-9.19,1056.110000000002,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,gasto recurrente
+2024-10-08,Gasto,Alimentación,-34.94,1021.1700000000019,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,gasto recurrente
+2024-10-10,Gasto,Alimentación,-25.98,995.1900000000019,Pago con tarjeta,Tarjeta,October,Thursday,Saldo negativo,gasto recurrente
+2024-10-10,Gasto,Alimentación,-16.55,978.6400000000017,Pago con tarjeta,Tarjeta,October,Thursday,Saldo negativo,gasto recurrente
+2024-10-12,Gasto,Electricidad,-70.0,908.6400000000017,Cargo Electricidad,Débito,October,Saturday,Saldo negativo,fijo
+2024-10-12,Gasto,Gas,-45.0,863.6400000000017,Cargo Gas,Débito,October,Saturday,Saldo negativo,fijo
+2024-10-13,Gasto,Otros,-18.55,845.0900000000015,Pago con tarjeta,Tarjeta,October,Sunday,Saldo negativo,gasto extraordinario
+2024-10-14,Gasto,Salud,-22.2,822.8900000000017,Pago con tarjeta,Tarjeta,October,Monday,Saldo negativo,gasto recurrente
+2024-10-14,Gasto,Transporte,-23.53,799.3600000000015,Pago con tarjeta,Tarjeta,October,Monday,Saldo negativo,gasto recurrente
+2024-10-15,Gasto,Internet,-55.0,744.3600000000015,Cargo Internet,Débito,October,Tuesday,Saldo negativo,fijo
+2024-10-15,Gasto,Telefonía,-35.0,709.3600000000015,Cargo Telefonía,Débito,October,Tuesday,Saldo negativo,fijo
+2024-10-16,Gasto,Ocio,-40.82,668.5400000000018,Pago con tarjeta,Tarjeta,October,Wednesday,Saldo negativo,gasto extraordinario
+2024-10-16,Gasto,Bizum,-109.43,559.1100000000015,Bizum enviado,Bizum,October,Wednesday,Saldo negativo,sin definir
+2024-10-16,Ingreso,Ingreso extra,98.33,657.4400000000014,Ingreso puntual,Transferencia,October,Wednesday,Saldo negativo,ingreso de dinero
+2024-10-17,Gasto,Alimentación,-40.01,617.4300000000012,Pago con tarjeta,Tarjeta,October,Thursday,Saldo negativo,gasto recurrente
+2024-10-17,Gasto,Ocio,-57.74,559.6900000000014,Pago con tarjeta,Tarjeta,October,Thursday,Saldo negativo,gasto extraordinario
+2024-10-17,Ingreso,Bizum,16.28,575.9700000000012,Bizum recibido,Bizum,October,Thursday,Saldo negativo,sin definir
+2024-10-18,Gasto,Seguro,-45.0,530.9700000000012,Cargo Seguro,Débito,October,Friday,Saldo negativo,fijo
+2024-10-19,Gasto,Alimentación,-13.71,517.2600000000011,Pago con tarjeta,Tarjeta,October,Saturday,Saldo negativo,gasto recurrente
+2024-10-20,Gasto,Streaming,-25.0,492.2600000000011,Cargo Streaming,Débito,October,Sunday,Saldo negativo,fijo
+2024-10-20,Gasto,Transporte,-29.38,462.880000000001,Pago con tarjeta,Tarjeta,October,Sunday,Saldo negativo,gasto recurrente
+2024-10-20,Ingreso,Ingreso extra,292.41,755.2900000000009,Ingreso puntual,Transferencia,October,Sunday,Saldo negativo,ingreso de dinero
+2024-10-22,Gasto,Transporte,-33.71,721.5800000000008,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,gasto recurrente
+2024-10-22,Gasto,Otros,-15.54,706.0400000000009,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,gasto extraordinario
+2024-10-23,Gasto,Transporte,-26.17,679.8700000000008,Pago con tarjeta,Tarjeta,October,Wednesday,Saldo negativo,gasto recurrente
+2024-10-24,Gasto,Ocio,-36.35,643.5200000000004,Pago con tarjeta,Tarjeta,October,Thursday,Saldo negativo,gasto extraordinario
+2024-10-25,Gasto,Ocio,-36.26,607.2600000000002,Pago con tarjeta,Tarjeta,October,Friday,Saldo negativo,gasto extraordinario
+2024-10-26,Gasto,Ocio,-19.24,588.0200000000004,Pago con tarjeta,Tarjeta,October,Saturday,Saldo negativo,gasto extraordinario
+2024-10-26,Gasto,Alimentación,-44.9,543.1200000000008,Pago con tarjeta,Tarjeta,October,Saturday,Saldo negativo,gasto recurrente
+2024-10-29,Gasto,Ropa,-35.01,508.1100000000006,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,gasto extraordinario
+2024-10-29,Gasto,Alimentación,-45.6,462.5100000000002,Pago con tarjeta,Tarjeta,October,Tuesday,Saldo negativo,gasto recurrente
+2024-10-30,Gasto,Ropa,-37.01,425.5,Pago con tarjeta,Tarjeta,October,Wednesday,Saldo negativo,gasto extraordinario
+2024-10-30,Gasto,Transporte,-12.9,412.60000000000036,Pago con tarjeta,Tarjeta,October,Wednesday,Saldo negativo,gasto recurrente
+2024-11-01,Ingreso,Salario,2280.93,2693.53,Nómina mensual,Transferencia,November,Friday,Saldo negativo,ingreso de dinero
+2024-11-01,Gasto,Transporte,-22.93,2670.6000000000004,Pago con tarjeta,Tarjeta,November,Friday,Saldo negativo,gasto recurrente
+2024-11-01,Gasto,Ropa,-38.03,2632.57,Pago con tarjeta,Tarjeta,November,Friday,Saldo negativo,gasto extraordinario
+2024-11-04,Gasto,Transporte,-39.1,2593.4700000000003,Pago con tarjeta,Tarjeta,November,Monday,Saldo negativo,gasto recurrente
+2024-11-04,Gasto,Alimentación,-22.87,2570.6000000000004,Pago con tarjeta,Tarjeta,November,Monday,Saldo negativo,gasto recurrente
+2024-11-05,Gasto,Alquiler,-900.0,1670.6000000000004,Cargo Alquiler,Débito,November,Tuesday,Saldo negativo,fijo
+2024-11-06,Gasto,Otros,-29.72,1640.8800000000006,Pago con tarjeta,Tarjeta,November,Wednesday,Saldo negativo,gasto extraordinario
+2024-11-07,Gasto,Préstamo personal,-220.0,1420.8800000000006,Cargo Préstamo personal,Débito,November,Thursday,Saldo negativo,fijo
+2024-11-07,Gasto,Otros,-42.12,1378.7600000000007,Pago con tarjeta,Tarjeta,November,Thursday,Saldo negativo,gasto extraordinario
+2024-11-07,Gasto,Alimentación,-37.16,1341.6000000000008,Pago con tarjeta,Tarjeta,November,Thursday,Saldo negativo,gasto recurrente
+2024-11-08,Gasto,Ocio,-17.75,1323.8500000000008,Pago con tarjeta,Tarjeta,November,Friday,Saldo negativo,gasto extraordinario
+2024-11-08,Gasto,Salud,-50.59,1273.2600000000007,Pago con tarjeta,Tarjeta,November,Friday,Saldo negativo,gasto recurrente
+2024-11-09,Gasto,Ocio,-24.33,1248.9300000000007,Pago con tarjeta,Tarjeta,November,Saturday,Saldo negativo,gasto extraordinario
+2024-11-10,Gasto,Ocio,-50.95,1197.980000000001,Pago con tarjeta,Tarjeta,November,Sunday,Saldo negativo,gasto extraordinario
+2024-11-10,Gasto,Alimentación,-17.4,1180.5800000000008,Pago con tarjeta,Tarjeta,November,Sunday,Saldo negativo,gasto recurrente
+2024-11-11,Gasto,Restaurantes,-38.02,1142.5600000000009,Pago con tarjeta,Tarjeta,November,Monday,Saldo negativo,gasto extraordinario
+2024-11-12,Gasto,Electricidad,-70.0,1072.5600000000009,Cargo Electricidad,Débito,November,Tuesday,Saldo negativo,fijo
+2024-11-12,Gasto,Gas,-45.0,1027.5600000000009,Cargo Gas,Débito,November,Tuesday,Saldo negativo,fijo
+2024-11-12,Gasto,Alimentación,-36.69,990.8700000000008,Pago con tarjeta,Tarjeta,November,Tuesday,Saldo negativo,gasto recurrente
+2024-11-13,Gasto,Ocio,-59.57,931.3000000000006,Pago con tarjeta,Tarjeta,November,Wednesday,Saldo negativo,gasto extraordinario
+2024-11-13,Ingreso,Bizum,18.48,949.7800000000007,Bizum recibido,Bizum,November,Wednesday,Saldo negativo,sin definir
+2024-11-14,Gasto,Alimentación,-20.24,929.5400000000009,Pago con tarjeta,Tarjeta,November,Thursday,Saldo negativo,gasto recurrente
+2024-11-15,Gasto,Internet,-55.0,874.5400000000009,Cargo Internet,Débito,November,Friday,Saldo negativo,fijo
+2024-11-15,Gasto,Telefonía,-35.0,839.5400000000009,Cargo Telefonía,Débito,November,Friday,Saldo negativo,fijo
+2024-11-17,Gasto,Alimentación,-23.66,815.880000000001,Pago con tarjeta,Tarjeta,November,Sunday,Saldo negativo,gasto recurrente
+2024-11-17,Gasto,Alimentación,-25.04,790.840000000001,Pago con tarjeta,Tarjeta,November,Sunday,Saldo negativo,gasto recurrente
+2024-11-17,Ingreso,Ingreso extra,214.86,1005.7000000000012,Ingreso puntual,Transferencia,November,Sunday,Saldo negativo,ingreso de dinero
+2024-11-18,Gasto,Seguro,-45.0,960.7000000000012,Cargo Seguro,Débito,November,Monday,Saldo negativo,fijo
+2024-11-18,Gasto,Alimentación,-44.74,915.9600000000014,Pago con tarjeta,Tarjeta,November,Monday,Saldo negativo,gasto recurrente
+2024-11-18,Gasto,Alimentación,-47.06,868.9000000000015,Pago con tarjeta,Tarjeta,November,Monday,Saldo negativo,gasto recurrente
+2024-11-18,Ingreso,Ingreso extra,388.1,1257.0000000000014,Ingreso puntual,Transferencia,November,Monday,Saldo negativo,ingreso de dinero
+2024-11-19,Gasto,Transporte,-35.7,1221.3000000000015,Pago con tarjeta,Tarjeta,November,Tuesday,Saldo negativo,gasto recurrente
+2024-11-20,Gasto,Streaming,-25.0,1196.3000000000015,Cargo Streaming,Débito,November,Wednesday,Saldo negativo,fijo
+2024-11-20,Gasto,Alimentación,-17.49,1178.8100000000018,Pago con tarjeta,Tarjeta,November,Wednesday,Saldo negativo,gasto recurrente
+2024-11-20,Gasto,Alimentación,-27.52,1151.2900000000018,Pago con tarjeta,Tarjeta,November,Wednesday,Saldo negativo,gasto recurrente
+2024-11-21,Gasto,Transporte,-11.35,1139.9400000000019,Pago con tarjeta,Tarjeta,November,Thursday,Saldo negativo,gasto recurrente
+2024-11-21,Gasto,Salud,-53.62,1086.320000000002,Pago con tarjeta,Tarjeta,November,Thursday,Saldo negativo,gasto recurrente
+2024-11-22,Gasto,Alimentación,-41.92,1044.400000000002,Pago con tarjeta,Tarjeta,November,Friday,Saldo negativo,gasto recurrente
+2024-11-22,Gasto,Alimentación,-32.56,1011.840000000002,Pago con tarjeta,Tarjeta,November,Friday,Saldo negativo,gasto recurrente
+2024-11-23,Gasto,Alimentación,-28.39,983.4500000000021,Pago con tarjeta,Tarjeta,November,Saturday,Saldo negativo,gasto recurrente
+2024-11-23,Gasto,Ocio,-35.31,948.1400000000021,Pago con tarjeta,Tarjeta,November,Saturday,Saldo negativo,gasto extraordinario
+2024-11-23,Ingreso,Bizum,105.54,1053.680000000002,Bizum recibido,Bizum,November,Saturday,Saldo negativo,sin definir
+2024-11-23,Ingreso,Ingreso extra,302.22,1355.9000000000024,Ingreso puntual,Transferencia,November,Saturday,Saldo negativo,ingreso de dinero
+2024-11-24,Gasto,Restaurantes,-48.24,1307.6600000000026,Pago con tarjeta,Tarjeta,November,Sunday,Saldo negativo,gasto extraordinario
+2024-11-24,Gasto,Transporte,-54.41,1253.2500000000027,Pago con tarjeta,Tarjeta,November,Sunday,Saldo negativo,gasto recurrente
+2024-11-25,Gasto,Transporte,-43.17,1210.0800000000027,Pago con tarjeta,Tarjeta,November,Monday,Saldo negativo,gasto recurrente
+2024-11-28,Gasto,Restaurantes,-10.37,1199.7100000000028,Pago con tarjeta,Tarjeta,November,Thursday,Saldo negativo,gasto extraordinario
+2024-11-29,Gasto,Transporte,-32.43,1167.280000000003,Pago con tarjeta,Tarjeta,November,Friday,Saldo negativo,gasto recurrente
+2024-11-30,Gasto,Alimentación,-16.48,1150.800000000003,Pago con tarjeta,Tarjeta,November,Saturday,Saldo negativo,gasto recurrente
+2024-11-30,Ingreso,Bizum,21.88,1172.680000000003,Bizum recibido,Bizum,November,Saturday,Saldo negativo,sin definir
+2024-12-01,Ingreso,Salario,2168.42,3341.100000000003,Nómina mensual,Transferencia,December,Sunday,Saldo negativo,ingreso de dinero
+2024-12-01,Gasto,Alimentación,-19.08,3322.020000000003,Pago con tarjeta,Tarjeta,December,Sunday,Saldo negativo,gasto recurrente
+2024-12-02,Gasto,Transporte,-53.46,3268.560000000003,Pago con tarjeta,Tarjeta,December,Monday,Saldo negativo,gasto recurrente
+2024-12-03,Gasto,Alimentación,-24.03,3244.5300000000034,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto recurrente
+2024-12-03,Gasto,Ocio,-53.88,3190.6500000000033,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto extraordinario
+2024-12-04,Gasto,Otros,-50.7,3139.950000000003,Pago con tarjeta,Tarjeta,December,Wednesday,Saldo negativo,gasto extraordinario
+2024-12-04,Gasto,Alimentación,-34.93,3105.020000000003,Pago con tarjeta,Tarjeta,December,Wednesday,Saldo negativo,gasto recurrente
+2024-12-04,Ingreso,Bizum,38.34,3143.360000000003,Bizum recibido,Bizum,December,Wednesday,Saldo negativo,sin definir
+2024-12-05,Gasto,Alquiler,-900.0,2243.360000000003,Cargo Alquiler,Débito,December,Thursday,Saldo negativo,fijo
+2024-12-05,Gasto,Ropa,-42.46,2200.900000000003,Pago con tarjeta,Tarjeta,December,Thursday,Saldo negativo,gasto extraordinario
+2024-12-05,Gasto,Alimentación,-33.16,2167.740000000003,Pago con tarjeta,Tarjeta,December,Thursday,Saldo negativo,gasto recurrente
+2024-12-06,Gasto,Otros,-42.77,2124.970000000003,Pago con tarjeta,Tarjeta,December,Friday,Saldo negativo,gasto extraordinario
+2024-12-07,Gasto,Préstamo personal,-220.0,1904.970000000003,Cargo Préstamo personal,Débito,December,Saturday,Saldo negativo,fijo
+2024-12-07,Gasto,Alimentación,-11.92,1893.050000000003,Pago con tarjeta,Tarjeta,December,Saturday,Saldo negativo,gasto recurrente
+2024-12-07,Gasto,Alimentación,-14.4,1878.6500000000028,Pago con tarjeta,Tarjeta,December,Saturday,Saldo negativo,gasto recurrente
+2024-12-09,Gasto,Restaurantes,-38.01,1840.6400000000026,Pago con tarjeta,Tarjeta,December,Monday,Saldo negativo,gasto extraordinario
+2024-12-09,Gasto,Bizum,-23.53,1817.1100000000024,Bizum enviado,Bizum,December,Monday,Saldo negativo,sin definir
+2024-12-10,Gasto,Restaurantes,-52.3,1764.8100000000022,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto extraordinario
+2024-12-10,Gasto,Restaurantes,-12.04,1752.7700000000023,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto extraordinario
+2024-12-11,Gasto,Salud,-52.59,1700.180000000002,Pago con tarjeta,Tarjeta,December,Wednesday,Saldo negativo,gasto recurrente
+2024-12-11,Gasto,Educación,-30.41,1669.7700000000023,Pago con tarjeta,Tarjeta,December,Wednesday,Saldo negativo,fijo
+2024-12-12,Gasto,Electricidad,-70.0,1599.7700000000023,Cargo Electricidad,Débito,December,Thursday,Saldo negativo,fijo
+2024-12-12,Gasto,Gas,-45.0,1554.7700000000023,Cargo Gas,Débito,December,Thursday,Saldo negativo,fijo
+2024-12-12,Gasto,Restaurantes,-35.34,1519.430000000002,Pago con tarjeta,Tarjeta,December,Thursday,Saldo negativo,gasto extraordinario
+2024-12-12,Gasto,Transporte,-16.61,1502.820000000002,Pago con tarjeta,Tarjeta,December,Thursday,Saldo negativo,gasto recurrente
+2024-12-14,Gasto,Alimentación,-24.9,1477.920000000002,Pago con tarjeta,Tarjeta,December,Saturday,Saldo negativo,gasto recurrente
+2024-12-15,Gasto,Internet,-55.0,1422.920000000002,Cargo Internet,Débito,December,Sunday,Saldo negativo,fijo
+2024-12-15,Gasto,Telefonía,-35.0,1387.920000000002,Cargo Telefonía,Débito,December,Sunday,Saldo negativo,fijo
+2024-12-15,Gasto,Transporte,-37.1,1350.820000000002,Pago con tarjeta,Tarjeta,December,Sunday,Saldo negativo,gasto recurrente
+2024-12-15,Gasto,Alimentación,-14.19,1336.630000000002,Pago con tarjeta,Tarjeta,December,Sunday,Saldo negativo,gasto recurrente
+2024-12-16,Gasto,Restaurantes,-10.03,1326.6000000000017,Pago con tarjeta,Tarjeta,December,Monday,Saldo negativo,gasto extraordinario
+2024-12-16,Ingreso,Bizum,52.68,1379.2800000000016,Bizum recibido,Bizum,December,Monday,Saldo negativo,sin definir
+2024-12-17,Gasto,Alimentación,-43.72,1335.5600000000018,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto recurrente
+2024-12-17,Gasto,Restaurantes,-27.49,1308.070000000002,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto extraordinario
+2024-12-18,Gasto,Seguro,-45.0,1263.070000000002,Cargo Seguro,Débito,December,Wednesday,Saldo negativo,fijo
+2024-12-18,Gasto,Alimentación,-49.28,1213.7900000000018,Pago con tarjeta,Tarjeta,December,Wednesday,Saldo negativo,gasto recurrente
+2024-12-19,Gasto,Restaurantes,-35.68,1178.110000000002,Pago con tarjeta,Tarjeta,December,Thursday,Saldo negativo,gasto extraordinario
+2024-12-20,Gasto,Streaming,-25.0,1153.110000000002,Cargo Streaming,Débito,December,Friday,Saldo negativo,fijo
+2024-12-20,Gasto,Alimentación,-15.4,1137.7100000000019,Pago con tarjeta,Tarjeta,December,Friday,Saldo negativo,gasto recurrente
+2024-12-20,Gasto,Alimentación,-21.94,1115.7700000000018,Pago con tarjeta,Tarjeta,December,Friday,Saldo negativo,gasto recurrente
+2024-12-21,Gasto,Transporte,-59.99,1055.780000000002,Pago con tarjeta,Tarjeta,December,Saturday,Saldo negativo,gasto recurrente
+2024-12-21,Gasto,Alimentación,-42.9,1012.8800000000019,Pago con tarjeta,Tarjeta,December,Saturday,Saldo negativo,gasto recurrente
+2024-12-22,Gasto,Transporte,-40.27,972.610000000002,Pago con tarjeta,Tarjeta,December,Sunday,Saldo negativo,gasto recurrente
+2024-12-22,Gasto,Alimentación,-24.27,948.340000000002,Pago con tarjeta,Tarjeta,December,Sunday,Saldo negativo,gasto recurrente
+2024-12-22,Gasto,Bizum,-62.31,886.030000000002,Bizum enviado,Bizum,December,Sunday,Saldo negativo,sin definir
+2024-12-24,Gasto,Transporte,-11.0,875.030000000002,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto recurrente
+2024-12-24,Ingreso,Ingreso extra,390.27,1265.300000000002,Ingreso puntual,Transferencia,December,Tuesday,Saldo negativo,ingreso de dinero
+2024-12-26,Gasto,Restaurantes,-22.86,1242.4400000000019,Pago con tarjeta,Tarjeta,December,Thursday,Saldo negativo,gasto extraordinario
+2024-12-27,Gasto,Restaurantes,-45.74,1196.700000000002,Pago con tarjeta,Tarjeta,December,Friday,Saldo negativo,gasto extraordinario
+2024-12-28,Gasto,Transporte,-57.71,1138.990000000002,Pago con tarjeta,Tarjeta,December,Saturday,Saldo negativo,gasto recurrente
+2024-12-29,Gasto,Alimentación,-17.42,1121.570000000002,Pago con tarjeta,Tarjeta,December,Sunday,Saldo negativo,gasto recurrente
+2024-12-29,Ingreso,Ingreso extra,390.89,1512.4600000000019,Ingreso puntual,Transferencia,December,Sunday,Saldo negativo,ingreso de dinero
+2024-12-30,Gasto,Alimentación,-27.88,1484.5800000000017,Pago con tarjeta,Tarjeta,December,Monday,Saldo negativo,gasto recurrente
+2024-12-31,Gasto,Transporte,-50.63,1433.9500000000016,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto recurrente
+2024-12-31,Gasto,Alimentación,-39.2,1394.7500000000018,Pago con tarjeta,Tarjeta,December,Tuesday,Saldo negativo,gasto recurrente
